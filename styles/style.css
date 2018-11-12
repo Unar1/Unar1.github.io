@@ -1,0 +1,11 @@
+
+[data-colour="div1"]{
+  background: red;
+}
+[data-colour="div2"]{
+  background: green;
+}
+[data-colour="div3"]{
+  color: purple;
+  font-size: 100px;
+}
